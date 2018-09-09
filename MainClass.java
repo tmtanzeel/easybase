@@ -1,3 +1,5 @@
+//THIS IS THE MAIN CLASS THAT WILL BE COMPILED FIRST
+
 import javafx.application.Application;
 import static javafx.application.Application.launch;
 import javafx.scene.Scene;
