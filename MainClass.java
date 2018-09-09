@@ -1,5 +1,6 @@
 //THIS IS THE MAIN CLASS THAT WILL BE COMPILED FIRST
 //WE WILL COMPILE AND RUN THIS FILE ONLY
+//AUTHOR: TANZEEL MIRZA
 
 import javafx.application.Application;
 import static javafx.application.Application.launch;
